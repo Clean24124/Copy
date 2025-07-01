@@ -1,5 +1,3 @@
--- rehydra 2025 @ : https://discord.gg/rNrCt99rMZ
-
 --!nocheck
 
 if not LPH_OBFUSCATED then    
